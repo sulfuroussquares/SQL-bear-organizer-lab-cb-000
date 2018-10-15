@@ -17,7 +17,7 @@ INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Grinch', 3, 'M', "Brown", "Nice", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Mr. Chocolate', 3, 'M', "Brown", "Nice", 1);
+VALUES ('Wendy', 3, 'M', "Brown", "Nice", 1);
 
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 VALUES ('Mr. Chocolate', 3, 'M', "Brown", "Nice", 1);
